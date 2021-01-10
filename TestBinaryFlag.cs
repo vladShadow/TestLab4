@@ -4,7 +4,7 @@ using IIG.BinaryFlag;
 
 namespace XUnitTestProject3
 {
-    public class BinareFlagTest
+    public class BinaryFlagTest
     {
 
         [Fact]
